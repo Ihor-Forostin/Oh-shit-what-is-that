@@ -1,5 +1,3 @@
-name = input("Enter your name")
-input("Enter your date of birth")
 
 lst= ['Vitaly', 'Vitalik', 'Vitaliy', 'Vetal', 'Веталь', "Виталий", "Виталик", "Вєталь", "Віталій", "Віталя", "Віталька", "Віталік"]
 

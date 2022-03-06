@@ -11,4 +11,5 @@ while True:
         else:
             print('oh shit i vse ravno naebal, otvet tut https://ihor-forostin.github.io/Error/')
             break
+input()
         
